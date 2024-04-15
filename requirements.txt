@@ -6,3 +6,4 @@ beautifulsoup4==4.9.3
 pyfiglet==0.8.post1
 termcolor==1.1.0
 lxml
+idna>=3.7 # not directly required, pinned by Snyk to avoid a vulnerability
