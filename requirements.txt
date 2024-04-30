@@ -6,3 +6,4 @@ beautifulsoup4==4.9.3
 pyfiglet==0.8.post1
 termcolor==1.1.0
 lxml
+certifi>=2023.7.22 # not directly required, pinned by Snyk to avoid a vulnerability
